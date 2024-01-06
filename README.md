@@ -1,4 +1,4 @@
-[![Fernando's GitHub Banner](./assets/GitHubHeader.png)](https://fernandoclaussen.com)
+[![Fernando's GitHub Banner](./assets/GitHubHeader-wcus.png)](https://fernandoclaussen.com)
 
 Hey there 👋
 
