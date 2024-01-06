@@ -1,4 +1,8 @@
-# Hi there, I'm Fernando Claussen 👋
+[![Fernando's GitHub Banner](./assets/GitHubHeader.png)](https://fernandoclaussen.com)
+
+Hey there 👋
+
+I’m Fernando, a senior engineer turned Director of Engineering at [Trew Knowledge](https://trewknowledge.com). My goal is to help make the developer experience a pleasant one. I believe we can empower a whole generation of new coders by properly documenting our learnings and code.
 
 <p><em>Director of Engineering at <a href="https://www.trewknowledge.com">Trew Knowledge
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
