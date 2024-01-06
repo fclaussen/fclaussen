@@ -16,8 +16,7 @@
 </p>
 
 
-## Stats
+## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fclaussen&column=-1)]([https://github.com/fclaussen](https://github.com/ryo-ma/github-profile-trophy))
 
-[![Anurag's GitHub stats](https://github-readme-stats-psi-eight-15.vercel.app/api?username=fclaussen&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
