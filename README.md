@@ -1,12 +1,11 @@
 [![Fernando's GitHub Banner](./assets/GitHubHeader-wcus.png)](https://fernandoclaussen.com)
 
-Hey there 👋
-
-I’m Fernando, a senior engineer turned Director of Engineering at [Trew Knowledge](https://trewknowledge.com). My goal is to help make the developer experience a pleasant one. I believe we can empower a whole generation of new coders by properly documenting our learnings and code.
-
-<p><em>Director of Engineering at <a href="https://www.trewknowledge.com">Trew Knowledge
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## Hey there, I'm Fernando Claussen 👋
+<p><em>Director of Engineering at <a href="https://www.trewknowledge.com">Trew Knowledge</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+My goal is to help make the developer experience a pleasant one.  
+I believe we can empower a whole generation of new developers by properly documenting our learnings and code.
 
 [![X Badge](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x&logoColor=white)](https://www.twitter.com/fclaussen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoclaussen/)
